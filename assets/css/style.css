@@ -1,0 +1,29 @@
+table, td, tr, th {
+    padding: 2px;
+    border: 1px solid black;    
+    }
+    .gras{
+        font-weight: bold;
+    }
+    .italic{
+        font-style: italic; 
+       }
+       .titleBold{
+           font-weight: bold;
+       }
+       .red{
+           color: red;
+       }
+       .green{
+           color: green;
+       }
+       .center{
+           text-align: center;
+       }
+       .arial{
+           font-family: Arial;
+       }
+        .fond{
+            background-color: blue;
+        }
+      
